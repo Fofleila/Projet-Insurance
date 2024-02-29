@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/f42c3c8500db4ee0890dd87ca78c8724/artifacts
+end_time: 1709210501443
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: f42c3c8500db4ee0890dd87ca78c8724
+run_name: Ridge Regression
+run_uuid: f42c3c8500db4ee0890dd87ca78c8724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210501198
+status: 3
+tags: []
+user_id: DELL

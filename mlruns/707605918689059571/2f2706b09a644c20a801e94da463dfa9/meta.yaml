@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/2f2706b09a644c20a801e94da463dfa9/artifacts
+end_time: 1709210784192
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 2f2706b09a644c20a801e94da463dfa9
+run_name: Extreme Gradient Boosting
+run_uuid: 2f2706b09a644c20a801e94da463dfa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210783880
+status: 3
+tags: []
+user_id: DELL

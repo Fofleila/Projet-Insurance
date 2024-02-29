@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/0a9cf9aa2c75421886b920a77f451427/artifacts
+end_time: 1709210500943
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 0a9cf9aa2c75421886b920a77f451427
+run_name: Linear Regression
+run_uuid: 0a9cf9aa2c75421886b920a77f451427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210500714
+status: 3
+tags: []
+user_id: DELL

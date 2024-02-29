@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/c161442986ad4f15a78b6029d105f0e2/artifacts
+end_time: 1709210507676
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: c161442986ad4f15a78b6029d105f0e2
+run_name: Elastic Net
+run_uuid: c161442986ad4f15a78b6029d105f0e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210507376
+status: 3
+tags: []
+user_id: DELL

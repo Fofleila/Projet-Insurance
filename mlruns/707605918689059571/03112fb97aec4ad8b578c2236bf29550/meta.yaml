@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/03112fb97aec4ad8b578c2236bf29550/artifacts
+end_time: 1709210506660
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 03112fb97aec4ad8b578c2236bf29550
+run_name: Decision Tree Regressor
+run_uuid: 03112fb97aec4ad8b578c2236bf29550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210506312
+status: 3
+tags: []
+user_id: DELL

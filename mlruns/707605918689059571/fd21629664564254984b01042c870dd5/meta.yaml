@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/fd21629664564254984b01042c870dd5/artifacts
+end_time: 1709210501998
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: fd21629664564254984b01042c870dd5
+run_name: Huber Regressor
+run_uuid: fd21629664564254984b01042c870dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210501737
+status: 3
+tags: []
+user_id: DELL

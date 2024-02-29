@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/201c5ccb3d60458da53682ab827fe129/artifacts
+end_time: 1709211098105
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 201c5ccb3d60458da53682ab827fe129
+run_name: K Neighbors Regressor
+run_uuid: 201c5ccb3d60458da53682ab827fe129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709211097768
+status: 3
+tags: []
+user_id: DELL

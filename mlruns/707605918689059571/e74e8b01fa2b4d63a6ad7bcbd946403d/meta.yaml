@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/e74e8b01fa2b4d63a6ad7bcbd946403d/artifacts
+end_time: 1709210502510
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: e74e8b01fa2b4d63a6ad7bcbd946403d
+run_name: Passive Aggressive Regressor
+run_uuid: e74e8b01fa2b4d63a6ad7bcbd946403d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210502234
+status: 3
+tags: []
+user_id: DELL

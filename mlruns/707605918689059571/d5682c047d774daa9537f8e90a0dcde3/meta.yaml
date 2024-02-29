@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/d5682c047d774daa9537f8e90a0dcde3/artifacts
+end_time: 1709210508179
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: d5682c047d774daa9537f8e90a0dcde3
+run_name: Dummy Regressor
+run_uuid: d5682c047d774daa9537f8e90a0dcde3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210507927
+status: 3
+tags: []
+user_id: DELL

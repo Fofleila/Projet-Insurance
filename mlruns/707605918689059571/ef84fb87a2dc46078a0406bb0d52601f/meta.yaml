@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/ef84fb87a2dc46078a0406bb0d52601f/artifacts
+end_time: 1709211099285
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: ef84fb87a2dc46078a0406bb0d52601f
+run_name: Gradient Boosting Regressor
+run_uuid: ef84fb87a2dc46078a0406bb0d52601f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709211098940
+status: 3
+tags: []
+user_id: DELL

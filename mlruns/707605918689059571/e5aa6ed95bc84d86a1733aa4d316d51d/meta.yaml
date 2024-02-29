@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/e5aa6ed95bc84d86a1733aa4d316d51d/artifacts
+end_time: 1709210778344
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: e5aa6ed95bc84d86a1733aa4d316d51d
+run_name: Lasso Least Angle Regression
+run_uuid: e5aa6ed95bc84d86a1733aa4d316d51d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210777677
+status: 3
+tags: []
+user_id: DELL

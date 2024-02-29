@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/f5106c00351a46739f523d26c3ce8212/artifacts
+end_time: 1709210504090
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: f5106c00351a46739f523d26c3ce8212
+run_name: Light Gradient Boosting Machine
+run_uuid: f5106c00351a46739f523d26c3ce8212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210503865
+status: 3
+tags: []
+user_id: DELL

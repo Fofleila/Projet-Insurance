@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/6ec7d01f409c490ea5fd6f16faf8c615/artifacts
+end_time: 1709210970128
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 6ec7d01f409c490ea5fd6f16faf8c615
+run_name: Session Initialized dde3
+run_uuid: 6ec7d01f409c490ea5fd6f16faf8c615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210723583
+status: 3
+tags: []
+user_id: DELL

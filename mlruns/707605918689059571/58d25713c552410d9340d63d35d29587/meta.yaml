@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/58d25713c552410d9340d63d35d29587/artifacts
+end_time: 1709210780710
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 58d25713c552410d9340d63d35d29587
+run_name: Orthogonal Matching Pursuit
+run_uuid: 58d25713c552410d9340d63d35d29587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210780400
+status: 3
+tags: []
+user_id: DELL

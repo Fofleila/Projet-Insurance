@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/fee27992cc13477b8eb044aee886a9ba/artifacts
+end_time: 1709210781392
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: fee27992cc13477b8eb044aee886a9ba
+run_name: Extra Trees Regressor
+run_uuid: fee27992cc13477b8eb044aee886a9ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210781008
+status: 3
+tags: []
+user_id: DELL

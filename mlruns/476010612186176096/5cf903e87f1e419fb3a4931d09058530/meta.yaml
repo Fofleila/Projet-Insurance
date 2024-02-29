@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/476010612186176096/5cf903e87f1e419fb3a4931d09058530/artifacts
+end_time: 1709209617368
+entry_point_name: ''
+experiment_id: '476010612186176096'
+lifecycle_stage: active
+run_id: 5cf903e87f1e419fb3a4931d09058530
+run_name: Random Forest Regressor
+run_uuid: 5cf903e87f1e419fb3a4931d09058530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709209617130
+status: 3
+tags: []
+user_id: DELL

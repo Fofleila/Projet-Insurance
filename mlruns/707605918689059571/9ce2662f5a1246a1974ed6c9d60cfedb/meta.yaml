@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/9ce2662f5a1246a1974ed6c9d60cfedb/artifacts
+end_time: 1709210787030
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 9ce2662f5a1246a1974ed6c9d60cfedb
+run_name: Bayesian Ridge
+run_uuid: 9ce2662f5a1246a1974ed6c9d60cfedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210786762
+status: 3
+tags: []
+user_id: DELL

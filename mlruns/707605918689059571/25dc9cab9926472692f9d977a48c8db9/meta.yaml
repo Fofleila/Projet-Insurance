@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/Projet-Insurance/mlruns/707605918689059571/25dc9cab9926472692f9d977a48c8db9/artifacts
+end_time: 1709210506046
+entry_point_name: ''
+experiment_id: '707605918689059571'
+lifecycle_stage: active
+run_id: 25dc9cab9926472692f9d977a48c8db9
+run_name: AdaBoost Regressor
+run_uuid: 25dc9cab9926472692f9d977a48c8db9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709210505697
+status: 3
+tags: []
+user_id: DELL
